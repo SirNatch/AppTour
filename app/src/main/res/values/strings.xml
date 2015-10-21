@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">AppTour</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="español">ESPAÑOL</string>
+    <string name="ingles">INGLES</string>
+    <string name="oaxaca">OAXACA</string>
+    <string name="ruta1">Ruta del Mezcal</string>
+    <string name="ruta2">Ruta de las artesanias</string>
+    <string name="ruta3">Ruta Dominicana</string>
+    <string name="action_settings">Configuracion</string>
+    <string name="title_activity_estados">Estados</string>
+    <string name="title_activity_rutas">Rutas</string>
+    <string name="title_activity_ruta">Ruta</string>
+    <string name="title_activity_tule">Tule</string>
+    <string name="title_activity_hotel_tule">Hoteles del Tule</string>
+
+    <string name="tule_informacion">El Árbol del Tule es el árbol con el diámetro de tronco más grande del mundo. Es un ahuehuete (taxodium mucronatum) con una circunferencia de aproximadamente 58 metros y una altura de 42 metros. Con un diámetro
+de 14.05 metros, se estima que serían necesarias al menos 30 personas con las manos entrelazadas para poder abarcar su tronco y en su sombra caben aproximadamente 500 personas.</string>
+
+    <string name="action_example">Example action</string>
+
+</resources>
